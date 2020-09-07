@@ -18,7 +18,8 @@ function factorial(n)
     result*=i
   }
   return result;
-}```
+}
+```
 ## Experiense 
 Self learn learn.javascript.ru link:[learn.javascript.ru](https://learn.javascript.ru/)
 Training CodeWars link:[codewars.com](https://www.codewars.com/users/bakin-dima/completed_solutions)
