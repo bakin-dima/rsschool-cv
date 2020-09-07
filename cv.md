@@ -19,3 +19,11 @@ function factorial(n)
   }
   return result;
 }```
+## Experiense 
+Self learn learn.javascript.ru link:[learn.javascript.ru](https://learn.javascript.ru/)
+Training CodeWars link:[codewars.com](https://www.codewars.com/users/bakin-dima/completed_solutions)
+Finish Html-Academy courses link:[HTMLAcademy](https://htmlacademy.ru/profile/id109598/progress)
+## Education
+Belarusian State University Mechanila and Mathematical Faculty
+## English
+Only practice i have is talking with people at my current work.
