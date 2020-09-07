@@ -4,7 +4,7 @@ phone: +375-29-365-92-99
 e-mail: bakin.dima93@gmail.com
 telegram: @bakin-dima
 ## Summary
-I want lo learn web techology. My goal is to be a front-end programist
+My goal is learning web technology to be front-end programmer.
 ## Skills
 HTML 5.0 CSS 3.0 JavsScript git
 ## Code examples
